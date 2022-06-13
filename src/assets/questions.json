@@ -1,0 +1,479 @@
+{
+  "questions": [
+    {
+      "questionText": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+      "options": [
+        {
+          "text": "Simien Jackel",
+          "correct": true
+        },
+        {
+          "text": "Ethiopian Coyote"
+        },
+        {
+          "text": "Amharic Fox"
+        },
+        {
+          "text": "Canis Simiensis"
+        }
+      ],
+      "explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+    {
+      "questionText": "Which of these species is not extinct?",
+      "options": [
+        {
+          "text": "Saudi gazelle"
+        },
+        {
+          "text": "Japanese sea lion"
+        },
+        {
+          "text": "Tasmanian tiger"
+        },
+        {
+          "text": "Komodo dragon",
+          "correct": true
+        }
+      ],
+      "explanation": "enum is not used as a type in TypeScript"
+    },
+    {
+      "questionText": "Which of the following carbonated soft drinks were introduced first?",
+      "options": [
+        {
+          "text": "Coca-Cola"
+        },
+        {
+          "text": "Moutain Dew"
+        },
+        {
+          "text": "Sprite"
+        },
+        {
+          "text": "Dr Pepper",
+          "correct": true
+        }
+      ],
+      "explanation": "enum is not used as a type in TypeScript"
+    },
+    {
+      "questionText": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+      "options": [
+        {
+          "text": "River Horse (Latin)"
+        },
+        {
+          "text": "Fat Pig (Latin)"
+        },
+        {
+          "text": "Fat Pig (Greek)"
+        },
+        {
+          "text": "River Horse (Greek)",
+          "correct": true
+        }
+      ],
+      "explanation": "enum is not used as a type in TypeScript"
+    },
+    {
+      "questionText": "Which of the following blood component forms a plug at the site of injuries?",
+      "options": [
+        {
+          "text": "White blood cells"
+        },
+        {
+          "text": "Platelets",
+          "correct": true
+        },
+        {
+          "text": "Red blood cells"
+        },
+        {
+          "text": "Blood plasma"
+        }
+      ],
+      "explanation": "interfaces are typically used to list the properties and methods for an object"
+    },
+    {
+      "questionText": "What is the fastest  land animal?",
+      "options": [
+        {
+          "text": "Thomson&rsquo;s Gazelle"
+        },
+        {
+          "text": "Cheetah",
+          "correct": true
+        },
+        {
+          "text": "Lion"
+        },
+        {
+          "text": "Pronghorn Antelope"
+        }
+      ],
+      "explanation": "interfaces are typically used to list the properties and methods for an object"
+    },
+    {
+      "questionText": "Which country, not including Japan, has the most people of japanese decent?",
+      "options": [
+        {
+          "text": "China"
+        },
+        {
+          "text": "Barzil",
+          "correct": true
+        },
+        {
+          "text": "South Korea"
+        },
+        {
+          "text": "United States of America"
+        }
+      ],
+      "explanation": "number[] is another way of writing Array<number> in TypeScript"
+    },
+    {
+      "questionText": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+      "options": [
+        {
+          "text": "South Africa"
+        },
+        {
+          "text": "New Zealand",
+          "correct": true
+        },
+        {
+          "text": "Madagascar"
+        },
+        {
+          "text": "Australia"
+        }
+      ],
+      "explanation": "number[] is another way of writing Array<number> in TypeScript"
+    },
+    {
+      "questionText": "On a dartboard, what number is directly opposite No. 1?",
+      "options": [
+        {
+          "text": "20"
+        },
+        {
+          "text": "19",
+          "correct": true
+        },
+        {
+          "text": "15"
+        },
+        {
+          "text": "12"
+        }
+      ],
+      "explanation": "number[] is another way of writing Array<number> in TypeScript"
+    },
+    {
+      "questionText": "What is the name of the Jewish New Year?",
+      "options": [
+        {
+          "text": "Elul"
+        },
+        {
+          "text": "Rosh Hashanah",
+          "correct": true
+        },
+        {
+          "text": "New Year"
+        },
+        {
+          "text": "Succoss"
+        }
+      ],
+      "explanation": "number[] is another way of writing Array<number> in TypeScript"
+    },
+    {
+      "questionText": "Cashmere is the wool from which kind of animal?",
+      "options": [
+        {
+          "text": "Goat",
+          "correct": true
+        },
+        {
+          "text": "Sheep"
+        },
+        {
+          "text": "Llama"
+        },
+        {
+          "text": "Camel"
+        }
+      ],
+      "explanation": "a constructor is used by a class to take in parameters"
+    },
+    {
+      "questionText": "What is the most commonly used noun in the English language?",
+      "options": [
+        {
+          "text": "Water"
+        },
+        {
+          "text": "Man"
+        },
+        {
+          "text": "Home"
+        },
+        {
+          "text": "Time",
+          "correct": true
+        }
+      ],
+      "explanation": "async is not used as an access modifier type in TypeScript"
+    },
+    {
+      "questionText": "What are rhino&#039;s horn made of?",
+      "options": [
+        {
+          "text": "Ivory"
+        },
+        {
+          "text": "Skin"
+        },
+        {
+          "text": "Bone"
+        },
+        {
+          "text": "Keratin",
+          "correct": true
+        }
+      ],
+      "explanation": "async is not used as an access modifier type in TypeScript"
+    },
+    {
+      "questionText": "What does a funambulist walk on?",
+      "options": [
+        {
+          "text": "Broken Glass"
+        },
+        {
+          "text": "A Tight Rope",
+          "correct": true
+        },
+        {
+          "text": "Moon"
+        },
+        {
+          "text": "Balls"
+        }
+      ],
+      "explanation": "the export keyword allows for the information to be transmitted between files"
+    },
+    {
+      "questionText": "What scientific suborder does the family Hyaenidae belong to?",
+      "options": [
+        {
+          "text": "Caniformia"
+        },
+        {
+          "text": "Feliformia",
+          "correct": true
+        },
+        {
+          "text": "Ciconiiformes"
+        },
+        {
+          "text": "Haplorhini"
+        }
+      ],
+      "explanation": "the export keyword allows for the information to be transmitted between files"
+    },
+    {
+      "questionText": "How many furlongs are there in a mile?",
+      "options": [
+        {
+          "text": "Two"
+        },
+        {
+          "text": "Eight",
+          "correct": true
+        },
+        {
+          "text": "Four"
+        },
+        {
+          "text": "SIx"
+        }
+      ],
+      "explanation": "the export keyword allows for the information to be transmitted between files"
+    },
+    {
+      "questionText": "In the hexadecimal system, what number comes after 9?",
+      "options": [
+        {
+          "text": "The Letter A",
+          "correct": true
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "The Number 0"
+        },
+        {
+          "text": "16"
+        }
+      ],
+      "explanation": "filter is a method used to conditionally create a new array"
+    },
+    {
+      "questionText": "Named after the mallow flower, mauve is a shade of what?",
+      "options": [
+        {
+          "text": "Purple",
+          "correct": true
+        },
+        {
+          "text": "Red"
+        },
+        {
+          "text": "Brown"
+        },
+        {
+          "text": "Pink"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "What do you call a baby bat?",
+      "options": [
+        {
+          "text": "Pup",
+          "correct": true
+        },
+        {
+          "text": "Cub"
+        },
+        {
+          "text": "Chick"
+        },
+        {
+          "text": "Kid"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "What is the fastest animal?",
+      "options": [
+        {
+          "text": "Peregrine Falcon",
+          "correct": true
+        },
+        {
+          "text": "Cheetah"
+        },
+        {
+          "text": "Golden Eagle"
+        },
+        {
+          "text": "Housefly"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "Sciophobia is the fear of what?",
+      "options": [
+        {
+          "text": "Shadows",
+          "correct": true
+        },
+        {
+          "text": "Eating"
+        },
+        {
+          "text": "Bright lights"
+        },
+        {
+          "text": "Transportation"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "What type of creature is a Bonobo?",
+      "options": [
+        {
+          "text": "Ape",
+          "correct": true
+        },
+        {
+          "text": "Lion"
+        },
+        {
+          "text": "Parrot"
+        },
+        {
+          "text": "Wildcat"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "What is the last letter of the Greek alphabet?",
+      "options": [
+        {
+          "text": "Omega",
+          "correct": true
+        },
+        {
+          "text": "Kappa"
+        },
+        {
+          "text": "Mu"
+        },
+        {
+          "text": "Epsilon"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "What is the collective noun for vultures?",
+      "options": [
+        {
+          "text": "Wake",
+          "correct": true
+        },
+        {
+          "text": "Building"
+        },
+        {
+          "text": "Gaze"
+        },
+        {
+          "text": "Ambush"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "The Flag of the European Union has how many stars on it?",
+      "options": [
+        {
+          "text": "12",
+          "correct": true
+        },
+        {
+          "text": "14"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "16"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    }
+  ]
+}

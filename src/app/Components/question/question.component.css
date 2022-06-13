@@ -1,0 +1,40 @@
+.pencil-image{
+    font-size: 3.5rem;
+    color: #799973;
+
+}
+.quizheader-span {
+  font-style: italic;
+  display: block;
+}
+.question-icons{
+    font-size: 2.5rem;
+    /* font-weight: 700; */
+    color: #83C07B;
+}
+.progressBar-progress{
+    background-color: rgba(105,98,160);
+
+}
+.card{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 10px;
+}
+li{
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+    /* background-color: rgba(255, 255, 255, 0.2); */
+}
+li .card:hover{
+    border: 2px solid rgb(105,98,160);
+}
+ol{
+    padding: 0;
+}
+.big-box{
+    border-radius: 0 50px;
+    background-color: rgba(243, 252, 241, 0.6);
+}

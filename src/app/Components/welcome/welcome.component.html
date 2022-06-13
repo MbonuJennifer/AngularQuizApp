@@ -1,0 +1,16 @@
+<div class="container py-5 main-box">
+    <h1 class="display-message fw-bold">Welcome!</h1>
+    <p>This quiz contains <span>10 questions</span>. Each question holds 10 points.</p>
+    <h5>Rules:</h5>
+    <ol>
+        <li>Correct questions gives you 4 points.</li>
+        <li>Incorrect questions gives you -4 points.</li>
+        <li>You will have <span>15 seconds</span> to answer each question.</li>
+        <li>Refreshing the page will reset the quiz. </li>
+    </ol>
+    <h2 class="goodluck-text">Good luck!!! 😃</h2>
+    <input #name type="text" placeholder="Enter your name..." class="input-name-field mt-5">
+    <input #email type="email" placeholder="Enter your email..." class="input-email-field">
+    <button class="py-2 px-4 my-3 start-button " routerLink="/question" routerLinkActive="active" (click)="startQuiz()">Start Quiz</button>
+</div>
+
